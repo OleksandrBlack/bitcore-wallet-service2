@@ -12,9 +12,9 @@ var tingodb = require('tingodb')({
   memStore: true
 });
 
-var Bitcore = require('bitcore-lib-xsg');
+var Bitcore = require('bitcore-lib-safe');
 var Bitcore_ = {
-  xsg: Bitcore
+  safe: Bitcore
 };
 
 var Common = require('../../lib/common');
