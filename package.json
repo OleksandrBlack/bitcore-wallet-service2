@@ -17,11 +17,11 @@
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/snowgem/bitcore-wallet-service/issues"
+    "url": "https://github.com/OleksandrBlack/bitcore-wallet-service/issues"
   },
   "dependencies": {
     "async": "^0.9.2",
-    "bitcore-lib-xsg": "https://github.com/snowgem/bitcore-lib-xsg.git",
+    "bitcore-lib-safe": "https://github.com/OleksandrBlack/bitcore-lib-safe.git",
     "bitcore-lib-cash": "https://github.com/bitpay/bitcore-lib.git#cash",
     "body-parser": "^1.11.0",
     "compression": "^1.6.2",
