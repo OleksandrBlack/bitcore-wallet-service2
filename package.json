@@ -13,7 +13,7 @@
     "BWS"
   ],
   "repository": {
-    "url": "git@github.com:snowgem/bitcore-wallet-service.git",
+    "url": "git@github.com:OleksandrBlack/bitcore-wallet-service.git",
     "type": "git"
   },
   "bugs": {
