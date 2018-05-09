@@ -49,7 +49,7 @@ describe('Blockchain monitor', function() {
           messageBroker: server.messageBroker,
           storage: storage,
           blockchainExplorers: {
-            'xsg': {
+            'safe': {
               'testnet': blockchainExplorer,
               'livenet': blockchainExplorer
             }

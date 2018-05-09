@@ -1,4 +1,3 @@
-
 # bitcore-wallet-service
 
 [![NPM Package](https://img.shields.io/npm/v/bitcore-wallet-service.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-wallet-service)
