@@ -43,13 +43,13 @@ var config = {
         provider: 'insight',
         url: 'https://explorer.safecoin.org:443',
       },
-      testnet: {
+     /* testnet: {
         provider: 'insight',
         url: 'https://testnet.safecoin.org:443',
         // url: 'http://localhost:3001',
         // Multiple servers (in priority order)
         // url: ['http://a.b.c', 'https://test-insight.bitpay.com:443'],
-      },
+      },*/
     },
   },
   pushNotificationsOpts: {
